@@ -8,6 +8,9 @@ bin/
 # Ignore Idea customizations
 .idea
 
+# Ignore VsCode customizations
+.vscode
+
 # Ignore Eclipse settings
 .project
 .settings/
